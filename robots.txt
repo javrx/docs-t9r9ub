@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-9ykybm.kujang138bos.online/sitemap.xml
